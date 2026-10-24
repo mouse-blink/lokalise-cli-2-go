@@ -9,3 +9,5 @@ test/
 # config file
 config.*
 dist/
+.gooze-reports
+.gooze.log*
